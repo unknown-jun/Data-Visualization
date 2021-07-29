@@ -9,3 +9,18 @@
 - 복잡한 시각화를 쉽게 구축할 수 있는 다중 플롯 그리드 구조를 위한 높은 수준의 추상화
 - 여러 테마가 내장된 matplotlib 그림 스타일링 제어
 - 데이터의 패턴을 충실히 나타내는 색상 팔레트 선택 도구
+
+## S01. 산점도(Scatter Plot)
+
+## S02. 막대그래프(Line Plot)
+1. line plot 생성
+2. ci: 신뢰구간 속성
+3. estimator: 집계값 조정
+4. style: dash나 marker를 통한 차원 표현
+5. col: 특정값대로 그래프 분할
+6. query문을 통한 데이터 크기 제한
+7. sort
+8. palette: 색상 조합 조정
+9. row
+10. col_wrap: 한 열에 들어갈 최대 그래프 조절하기
+11. fig.autofmt_xdate
