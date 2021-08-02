@@ -25,13 +25,13 @@
 10. col_wrap: 한 열에 들어갈 최대 그래프 조절하기
 11. fig.autofmt_xdate
 
-## S03. 범주형 데이터(Categorical Data)
-1. 범주형 산점도(Categorical Scatterplot)
-2. 범주형 분포도(Categorical Distribution)
-&nbsp;&nbsp;&nbsp;2-1. 박스플랏(Box plots)
-&nbsp;&nbsp;&nbsp;2-2. 박슨플랏(Boxen plots)
-&nbsp;&nbsp;&nbsp;2-3. 카운트플랏(Violin plots)
-3. 범주형 추정치 도표(Categorical estimate plots)
-&nbsp;&nbsp;&nbsp;3-1. 막대 플랏(Bar plots)
-&nbsp;&nbsp;&nbsp;3-2. 포인트 플랏(Point plots)
-&nbsp;&nbsp;&nbsp;3-3. 카운트 플랏(Counts plot)
+## S03. 범주형 데이터(Categorical Data)  
+1. 범주형 산점도(Categorical Scatterplot)  
+2. 범주형 분포도(Categorical Distribution)  
+&nbsp;&nbsp;&nbsp;2-1. 박스플랏(Box plots)  
+&nbsp;&nbsp;&nbsp;2-2. 박슨플랏(Boxen plots)  
+&nbsp;&nbsp;&nbsp;2-3. 카운트플랏(Violin plots)  
+3. 범주형 추정치 도표(Categorical estimate plots)  
+&nbsp;&nbsp;&nbsp;3-1. 막대 플랏(Bar plots)  
+&nbsp;&nbsp;&nbsp;3-2. 포인트 플랏(Point plots)  
+&nbsp;&nbsp;&nbsp;3-3. 카운트 플랏(Counts plot)  
