@@ -73,6 +73,8 @@
 ## L15. 줄기 잎 차트
 - 이산 확률 함수나 자기상관관계(auto-correlation)을 묘사할 때 사용
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15.1 줄기 잎 차트 생성 <br>
+
 ## L16. 박스 플랏
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16.1 노치 조정하기 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16.2 분위수, 중앙값 등 얻기 <br>
@@ -87,6 +89,8 @@
 ## L18. 일관성 차트
 - 두 변수간의 관계를 알수 있는 차트  
 - 두 변수간의 차이를 시각화함으로써 한 단위(ex.시간)이 변화함에 따라 두변수가 어떤 차이를 갖게 해주는 지를 알게 해줌
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18.1 일관성 차트 생성 <br>
 
 ## L19. 오차막대
 - 데이터의 편차, 예상 측정 오차를 나타나는데 사용
@@ -108,8 +112,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22.1 밀도와 등고선 플랏 생성하기 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22.2 Decision Boundary 생성하기 <br>
 
-## L23. 스트림 플롯
+## L23. 스트림 플랏
 - 벡터값의 변화, 흐름을 표현하기 위한 플롯
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 23.1 스트림 플롯 생성하기 <br>
 
 ## L24. 화살표 2차원 필드
@@ -125,10 +130,12 @@
 
 ## L26. 레이다 차트
 - 측정 목표에 대한 평가 항목이 여러개 일때 항목수에 따라 간격을 나누고 중심으로 부터 일정 간격으로 척도를 나눠 평가 항목간 점을 이어 선으로 만든 차트 (ex. 위닝 선수 그래프)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26.1 레이다 차트 생성하기 <br>
 
 ## L27. 생키 다이어그램
 - 흐름 다이어그램의 한 종류로서 그 화살표의 너비로 흐름의 양을 비율적으로 보여줌
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27.1 생키 다이어그램 생성하기 <br>
 
 ## L28. 3차원 플로팅
@@ -137,5 +144,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 출처:
-https://codetorial.net/matplotlib/index.html
+https://codetorial.net/matplotlib/index.html <br>
 [이수안컴퓨터 연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEGR11m7oLOSa0pBWCc3TMaL)
