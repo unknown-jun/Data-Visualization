@@ -12,7 +12,7 @@
 
 ## S01. 산점도(Scatter Plot)
 
-## S02. 막대그래프(Line Plot)
+## S02. 라인 그래프(Line Plot)
 1. line plot 생성
 2. ci: 신뢰구간 속성
 3. estimator: 집계값 조정
