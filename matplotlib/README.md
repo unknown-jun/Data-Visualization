@@ -66,9 +66,10 @@
 ## L14. 막대 그래프
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.1 막대 그래프 생성<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.2 막대 그래프 색상 지정하기<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.3 막대 폭 변경<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.4 막대 그래프 스타일 지정<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.5 누적합 막대 그래프와 막대 비교 그래프 생성<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.3 막대 위에 레이블 값 표기하기<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.4 막대 폭 변경<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.5 막대 그래프 스타일 지정<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.6 누적합 막대 그래프와 막대 비교 그래프 생성<br>
 
 ## L15. 줄기 잎 차트
 - 이산 확률 함수나 자기상관관계(auto-correlation)을 묘사할 때 사용
